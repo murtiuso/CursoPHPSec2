@@ -6,6 +6,8 @@
 <body>
 
 <?php 
+	// declaración de una constante; el identificador se puede poner con comillas simples o dobles
+	define ("PI", 3.1416);
 	echo 'hola mundo<br>';
 	
 	#comentario de una línea
@@ -31,6 +33,8 @@
 	echo "<br> la suma de $_numero y $numero2 es $unavariable";
 
 	echo gettype($unavariable);
+
+	echo "pi vale" . PI;
 		
 ?>
 
