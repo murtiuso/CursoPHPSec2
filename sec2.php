@@ -35,10 +35,6 @@
 	echo gettype($unavariable);
 
 	echo "pi vale" . PI;
-
-	 print("lelele");
-
-	 print("ole ole ole");
 		
 ?>
 
